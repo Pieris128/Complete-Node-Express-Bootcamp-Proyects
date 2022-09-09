@@ -19,6 +19,7 @@
     "class-methods-use-this": "off",
     "import/no-useless-path-segments": "off",
     "prefer-object-spread": "off",
+    "node/no-unsupported-features/es-syntax": "off",
     "prefer-destructuring": [
       "error",
       { "object": true, "array": false }
